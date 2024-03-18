@@ -1,6 +1,6 @@
 package evf.javadoc.original;
 
-// Recordatorio de dar conocimiento de copyright a dichas canciones
+// No es necesario hacerlo para un examen de clase
 
  public class Cancion {
     String nombreCancion;
