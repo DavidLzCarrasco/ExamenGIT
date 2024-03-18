@@ -20,6 +20,8 @@ public class Artista {
 	//Esto es un comentario
     }
     
+    // Prueba Método David López Carrasco
+    public String artistaSaluda() {
+        return nombreArtista + " dice hola";
+    }
 }
-
-
